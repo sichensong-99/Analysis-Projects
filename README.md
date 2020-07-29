@@ -16,6 +16,7 @@ colors = pd.read_csv('datasets/colors.csv')
 
 colors.head()
 
+
 The head() function returns the first n rows for the object based on position. It is useful for quickly testing if your object has the right type of data in it.
 
 
@@ -33,6 +34,7 @@ print('Number of distinct colors:', num_colors)
 #### Out[]:
 
 #### Number of distinct colors: 135
+
 
 As shown above, rgb is one of columns in the colors table. We use the size function here to count the number of elements along a given axis.
 
