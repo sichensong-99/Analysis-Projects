@@ -6,15 +6,15 @@ A comprehensive database of lego blocks is provided by Rebrickable. The data is
 
 Import modules
 
-#### import pandas as pd
+### import pandas as pd
 
 Read colors data
 
-#### colors = pd.read_csv('datasets/colors.csv')
+### colors = pd.read_csv('datasets/colors.csv')
 
 Print the first few rows
 
-#### colors.head()
+### colors.head()
 
 
 
