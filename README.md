@@ -63,7 +63,7 @@ Summarize colors based on whether they are transparent or not?
 
 ![transparent](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/transparent.png)
 
-We show the dataset using pivot table. In this way, we use count() function here to calculate value of each category. When as_index=True the key(s) you use in groupby() will become an index in the new dataframe. What's the difference between as_index=True and as_index=False.
+We show the dataset using pivot table. In this way, we use count() function here to calculate value of each category. When as_index=True the key(s) you use in groupby() will become an index in the new dataframe. What's the difference between as_index=True and as_index=False?
 
 ### Take a look:
 
@@ -73,3 +73,16 @@ We show the dataset using pivot table. In this way, we use count() function here
 
 ## 4.Explore Lego Sets
 Another interesting dataset available in this database is the sets data. It contains a comprehensive list of sets over the years and the number of parts that each of these sets contained.
+
+![theme_dataset](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/theme-dataset.png)
+
+### %matplotlib inline
+Read sets data as `sets`
+### sets=pd.read_csv('datasets/sets.csv')
+Create a summary of average number of parts by year: `parts_by_year`
+### parts_by_year = sets[['year', 'num_parts']].groupby('year', as_index = False).mean()
+Plot trends in average number of parts by year
+### sets.plot(x='year', y='num_parts')
+### parts_by_year.head()
+
+Note: “%matplotlib inline” will lead to static images of your plot embedded in the notebook.
