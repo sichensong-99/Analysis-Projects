@@ -96,3 +96,9 @@ Lego blocks ship under multiple themes. Let us try to get a sense of how the nu
 themes_by_year: Number of themes shipped by year
 ### themes_by_year = sets[['year', 'theme_id']].groupby('year', as_index = False).agg({'theme_id': pd.Series.nunique})
 ### themes_by_year.head()
+
+![over_year](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/over_year.png)
+
+Series is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.). The axis labels are collectively called index.
+nunique() function return Series with number of distinct observations over requested axis. If we set the value of axis to be 0, then it finds the total number of unique observations over the index axis. If we set the value of axis to be 1, then it find the total number of unique observations over the column axis.
+In the table above, it shows the theme_id and year. But We need to figure out the number of each theme id. It means that we count the number of one of columns in table, so we use agg() function here.
