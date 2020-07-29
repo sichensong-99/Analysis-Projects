@@ -31,14 +31,14 @@ num_colors = colors.rgb.size
 print('Number of distinct colors:', num_colors)
 
 
-#### Out[]:
-
-#### Number of distinct colors: 135
+#### Out[]:Number of distinct colors: 135
 
 
-##### As shown above, rgb is one of columns in the colors table. We use the size function here to count the number of elements along a given axis. Why don't use shape() here? Let's pay attention on the difference between size() and shape(). 
+#### As shown above, rgb is one of columns in the colors table. We use the size function here to count the number of elements along a given axis. Why don't use shape() here? Let's pay attention on the difference between size() and shape(). 
 
-##### Here's the examples:
+#### Here's the examples:
 
 size() function count the number of elements along a given axis. Parameters: arr: [array_like] Input data.
+
+![size](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/size().png)
 
