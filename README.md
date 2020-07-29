@@ -38,7 +38,7 @@ print('Number of distinct colors:', num_colors)
 
 
 
-##### As shown above, rgb is one of columns in the colors table. We use the size function here to count the number of elements along a given axis. Why don't use shape() here? Let's pay attention on the difference between size() and shape(). 
+As shown above, rgb is one of columns in the colors table. We use the size function here to count the number of elements along a given axis. Why don't use shape() here? Let's pay attention on the difference between size() and shape(). 
 
 #### Here's the examples:
 
@@ -49,3 +49,14 @@ size() function count the number of elements along a given axis. Parameters: arr
 The function "shape" returns the shape of an array. The shape is a tuple of integers. These numbers denote the lengths of the corresponding array dimension. In other words: The "shape" of an array is a tuple with the number of elements per axis (dimension).
 
 ![shape](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/shape().png)
+
+## 3.Transparent Colors in Lego Sets
+
+The colors data has a column named is_trans that indicates whether a color is transparent or not. It would be interesting to explore the distribution of transparent vs. non-transparent colors.
+
+#### colors_summary: Distribution of colors based on transparency
+
+##### Summarize colors based on whether they are transparent or not?
+
+colors_summary = colors.groupby('is_trans', as_index = True).count()
+colors_summary
