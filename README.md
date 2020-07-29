@@ -15,5 +15,19 @@ colors = pd.read_csv('datasets/colors.csv')
 #### Print the first few rows
 
 colors.head()
+
+The head() function returns the first n rows for the object based on position. It is useful for quickly testing if your object has the right type of data in it.
+
+
 ![read_data_output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/read_data_output.png)
+
+## 2.Exploring Colors
+
+#### How many distinct colors are available?
+
+num_colors = colors.rgb.size
+
+print('Number of distinct colors:', num_colors)
+
+Out[]: Number of distinct colors: 135
 
