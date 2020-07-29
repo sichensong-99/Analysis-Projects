@@ -5,11 +5,14 @@ A comprehensive database of lego blocks is provided by Rebrickable. The data is
 ![schema](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/schema.png)
 
 --Import modules
+
 import pandas as pd
 
 --Read colors data
+
 colors = pd.read_csv('datasets/colors.csv')
 
 --Print the first few rows
+
 colors.head()
 
