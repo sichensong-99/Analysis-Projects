@@ -4,22 +4,22 @@
 A comprehensive database of lego blocks is provided by Rebrickable. The data is available as csv files and the schema is shown below.
 ![schema](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/schema.png)
 
-#### Import modules
+Import modules
 
-import pandas as pd
+#### import pandas as pd
 
-#### Read colors data
+Read colors data
 
-colors = pd.read_csv('datasets/colors.csv')
+#### colors = pd.read_csv('datasets/colors.csv')
 
-#### Print the first few rows
+Print the first few rows
 
-colors.head()
-
-
+#### colors.head()
 
 
-##### The head() function returns the first n rows for the object based on position. It is useful for quickly testing if your object has the right type of data in it.
+
+
+The head() function returns the first n rows for the object based on position. It is useful for quickly testing if your object has the right type of data in it.
 
 
 ![read_data_output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/read_data_output.png)
@@ -54,11 +54,11 @@ The function "shape" returns the shape of an array. The shape is a tuple of inte
 
 The colors data has a column named is_trans that indicates whether a color is transparent or not. It would be interesting to explore the distribution of transparent vs. non-transparent colors.
 
-#### colors_summary: Distribution of colors based on transparency
+colors_summary: Distribution of colors based on transparency
 
-#### Summarize colors based on whether they are transparent or not?
+Summarize colors based on whether they are transparent or not?
 
-## colors_summary = colors.groupby('is_trans', as_index = True).count()
-## colors_summary
+### colors_summary = colors.groupby('is_trans', as_index = True).count()
+### colors_summary
 
 ![transparent](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/transparent.png)
