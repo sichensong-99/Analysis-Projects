@@ -56,7 +56,9 @@ The colors data has a column named is_trans that indicates whether a color i
 
 #### colors_summary: Distribution of colors based on transparency
 
-##### Summarize colors based on whether they are transparent or not?
+#### Summarize colors based on whether they are transparent or not?
 
-colors_summary = colors.groupby('is_trans', as_index = True).count()
-colors_summary
+## colors_summary = colors.groupby('is_trans', as_index = True).count()
+## colors_summary
+
+![transparent](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/transparent.png)
