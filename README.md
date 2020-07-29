@@ -86,3 +86,5 @@ Plot trends in average number of parts by year
 ### parts_by_year.head()
 
 Note: “%matplotlib inline” will lead to static images of your plot embedded in the notebook.
+
+![matplot1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/matplot1.png)
