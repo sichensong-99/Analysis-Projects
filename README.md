@@ -29,3 +29,8 @@ NumPy is a library for the Python programming language, adding support for large
 
 ### Nearest Neighbor Search - Iterative Python algorithm and vectorized NumPy version
 ![nearest](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/Nearest%20Neighbor%20Search%20-%20Iterative%20Python%20algorithm%20and%20vectorized%20NumPy%20version.png)
+
+## What's pandas?
+In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. 
+
+In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.
