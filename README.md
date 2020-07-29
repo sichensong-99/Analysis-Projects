@@ -17,6 +17,8 @@ colors = pd.read_csv('datasets/colors.csv')
 colors.head()
 
 
+
+
 ##### The head() function returns the first n rows for the object based on position. It is useful for quickly testing if your object has the right type of data in it.
 
 
@@ -34,6 +36,8 @@ print('Number of distinct colors:', num_colors)
 #### Out[]:Number of distinct colors: 135
 
 
+
+
 ##### As shown above, rgb is one of columns in the colors table. We use the size function here to count the number of elements along a given axis. Why don't use shape() here? Let's pay attention on the difference between size() and shape(). 
 
 #### Here's the examples:
@@ -44,3 +48,4 @@ size() function count the number of elements along a given axis. Parameters: arr
 
 The function "shape" returns the shape of an array. The shape is a tuple of integers. These numbers denote the lengths of the corresponding array dimension. In other words: The "shape" of an array is a tuple with the number of elements per axis (dimension).
 
+![shape](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/shape().png)
