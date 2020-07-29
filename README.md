@@ -18,3 +18,4 @@ NumPy is a library for the Python programming language, adding support for large
 ## Examples
 
 ### Array creation
+![array_creation](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/Array%20creation.png)
