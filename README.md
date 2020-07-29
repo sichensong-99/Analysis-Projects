@@ -62,3 +62,9 @@ Summarize colors based on whether they are transparent or not?
 ### colors_summary
 
 ![transparent](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/transparent.png)
+
+We show the dataset using pivot table. In this way, we use count() function here to calculate value of each category. When as_index=True the key(s) you use in groupby() will become an index in the new dataframe. What's the difference between as_index=True and as_index=False.
+
+### Take a look:
+
+![as_index1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/as_index1.png)
