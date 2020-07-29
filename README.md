@@ -15,4 +15,5 @@ colors = pd.read_csv('datasets/colors.csv')
 #### Print the first few rows
 
 colors.head()
+![read_data_output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/read_data_output.png)
 
