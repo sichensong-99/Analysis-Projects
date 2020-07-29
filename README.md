@@ -21,6 +21,7 @@ NumPy is a library for the Python programming language, adding support for large
 ![array_creation](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/Array%20creation.png)
 
 ### Linear algebra
+![linear_algebra](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/Linear%20algebra.png)
 
 
 ### Incorporation with OpenCV
