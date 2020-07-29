@@ -88,3 +88,11 @@ Plot trends in average number of parts by year
 Note: “%matplotlib inline” will lead to static images of your plot embedded in the notebook.
 
 ![matplot1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/matplot1.png)
+![matplot2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/matplot2.png)
+
+## 5.Lego Themes Over Years
+Lego blocks ship under multiple themes. Let us try to get a sense of how the number of themes shipped has varied over the years.
+
+themes_by_year: Number of themes shipped by year
+### themes_by_year = sets[['year', 'theme_id']].groupby('year', as_index = False).agg({'theme_id': pd.Series.nunique})
+### themes_by_year.head()
