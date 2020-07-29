@@ -25,6 +25,6 @@ NumPy is a library for the Python programming language, adding support for large
 
 
 ### Incorporation with OpenCV
-
+![opencv](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/Incorporation%20with%20OpenCV.png)
 
 ### Nearest Neighbor Search - Iterative Python algorithm and vectorized NumPy version
