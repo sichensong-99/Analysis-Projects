@@ -17,7 +17,7 @@ colors = pd.read_csv('datasets/colors.csv')
 colors.head()
 
 
-The head() function returns the first n rows for the object based on position. It is useful for quickly testing if your object has the right type of data in it.
+##### The head() function returns the first n rows for the object based on position. It is useful for quickly testing if your object has the right type of data in it.
 
 
 ![read_data_output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/read_data_output.png)
