@@ -8,3 +8,5 @@ This record mainly contains practice using matplotlib.pyplot, Numpy and Pandas.
 Provides a MATLAB-like plotting framework.
 
 pylab combines pyplot with numpy into a single namespace. This is convenient for interactive work, but for programming it is recommended that the namespaces be kept separate, e.g.:
+
+![matplotlib](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/matplotlib.png)
