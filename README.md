@@ -33,7 +33,7 @@ How many distinct colors are available?
 ### print('Number of distinct colors:', num_colors)
 
 
-#### Out[]:Number of distinct colors: 135
+### Out[]:Number of distinct colors: 135
 
 
 
@@ -68,3 +68,8 @@ We show the dataset using pivot table. In this way, we use count() function here
 ### Take a look:
 
 ![as_index1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/as_index1.png)
+
+![as_index2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/as_index2.png)
+
+## 4.Explore Lego Sets
+Another interesting dataset available in this database is the sets data. It contains a comprehensive list of sets over the years and the number of parts that each of these sets contained.
