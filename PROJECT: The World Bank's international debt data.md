@@ -62,6 +62,34 @@ Now that we have the exact total of the amounts of debt owed by several countrie
 
 ![task5-out](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task5-out.png)
 
+## 6. Average amount of debt across indicators
+
+We now have a brief overview of the dataset and a few of its summary statistics. We already have an idea of the different debt indicators in which the countries owe their debts. We can dig even further to find out on an average how much debt a country owes? This will give us a better sense of the distribution of the amount of debt across different indicators.
+
+![task6](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task6.png)
+
+![task6-out](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task6-out.png)
+
+## 7. The highest amount of principal repayments
+
+An interesting observation in the above finding is that there is a huge difference in the amounts of the indicators after the second one. This indicates that the first two indicators might be the most severe categories in which the countries owe their debts.
+
+We can investigate this a bit more so as to find out which country owes the highest amount of debt in the category of long term debts (DT.AMT.DLXF.CD). Since not all the countries suffer from the same kind of economic disturbances, this finding will allow us to understand that particular country's economic condition a bit more specifically.
+
+![task7](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task7.png)
+
+![task7-out](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task7-out.png)
+
+## 8. The most common debt indicator
+
+China has the highest amount of debt in the long-term debt (DT.AMT.DLXF.CD) category. This is verified by The World Bank. It is often a good idea to verify our analyses like this since it validates that our investigations are correct.
+
+We saw that long-term debt is the topmost category when it comes to the average amount of debt. But is it the most common indicator in which the countries owe their debt? Let's find that out.
+
+![task8](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task8.png)
+
+![task8-out](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task8-out.png)
+![task8-out2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task8-out2.png)
 
 
 
