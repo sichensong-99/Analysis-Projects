@@ -39,10 +39,29 @@ We can see there are a total of 124 countries present on the table. As we saw in
 ![task3](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task3.png)
 
 ![task3-out](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task3-out.png)
-
 ![task3-out2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task3-out2.png)
-
 ![task3-out3](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task3-out3.png)
+
+## 4. Totaling the amount of debt owed by the countries
+
+As mentioned earlier, the financial debt of a particular country represents its economic state. But if we were to project this on an overall global scale, how will we approach it?
+
+Let's switch gears from the debt indicators now and find out the total amount of debt (in USD) that is owed by the different countries. This will give us a sense of how the overall economy of the entire world is holding up.
+
+![task4](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task4.png)
+
+![task4-out](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task4-out.png)
+
+## 5. Country with the highest debt
+
+"Human beings cannot comprehend very large or very small numbers. It would be useful for us to acknowledge that fact." - Daniel Kahneman. That is more than 3 million million USD, an amount which is really hard for us to fathom.
+
+Now that we have the exact total of the amounts of debt owed by several countries, let's now find out the country that owns the highest amount of debt along with the amount. Note that this debt is the sum of different debts owed by a country across several categories. This will help to understand more about the country in terms of its socio-economic scenarios. We can also find out the category in which the country owns its highest debt. But we will leave that for now.
+
+![task5](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task5.png)
+
+![task5-out](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task5-out.png)
+
 
 
 
