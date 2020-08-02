@@ -39,7 +39,9 @@ We can see there are a total of 124 countries present on the table. As we saw in
 ![task3](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task3.png)
 
 ![task3-out](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task3-out.png)
+
 ![task3-out2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task3-out2.png)
+
 ![task3-out3](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/task3-out3.png)
 
 
