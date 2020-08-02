@@ -20,6 +20,7 @@ Let’s start with this one, as it will allow you to enter multi-line SQL statem
 The second line of code connects us to the international_debt database where the table international_debt is residing. Let's first SELECT all of the columns from the international_debt table. Also, we'll limit the output to the first ten rows to keep the output clean.
 
 ![dataset2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/dataset2.png)
+![dataset3](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/dataset3.png)
 
 
 
