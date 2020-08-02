@@ -11,3 +11,15 @@ Which country owns the maximum amount of debt and what does that amount look lik
 
 What is the average amount of debt owed by countries across different debt indicators?
 
+## 1. Reading Data
+
+Let’s start with this one, as it will allow you to enter multi-line SQL statements. The only requirement is to make a %%sql prefix on the start. 
+
+![dataset1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/dataset1.png)
+
+The second line of code connects us to the international_debt database where the table international_debt is residing. Let's first SELECT all of the columns from the international_debt table. Also, we'll limit the output to the first ten rows to keep the output clean.
+
+![dataset2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/dataset2.png)
+
+
+
