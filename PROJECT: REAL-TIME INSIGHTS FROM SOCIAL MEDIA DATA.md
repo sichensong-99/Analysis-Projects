@@ -90,6 +90,22 @@ Output:
 
 ![earth](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/earth.png)
 
+We have found a hot-trend, #WeLoveTheEarth. Now let's see what story it is screaming to tell us!
+If we query Twitter's search API with this hashtag as query parameter, we get back actual tweets related to it. We have the response from the search API stored in the datasets folder as 'WeLoveTheEarth.json'. So let's load this dataset and do a deep dive in this trend.
+
+![TWITTER-TASK4](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/TWITTER-TASK4.png)
+
+Output:
+![twitter-task4-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/TWITTER-TASK4-OUTPUT.png)
+
+Just like in Task 1, use theopen() method with 'datasets/WeLoveTheEarth.json' as input parameter to open the file -> call the read() method on the opened file to read its content -> pass the read JSON string to the json.loads() method as input parameter for decoding it -> store the decoded output in tweets.
+
+## 5. Digging deeper
+
+🕵️‍♀️ Printing the first two tweet items makes us realize that there’s a lot more to a tweet than what we normally think of as a tweet — there is a lot more than just a short text!
+
+But hey, let's not get overwhemled by all the information in a tweet object! Let's focus on a few interesting fields and see if we can find any hidden insights there.
+
 
 
 
