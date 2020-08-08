@@ -198,6 +198,18 @@ Output:
 ![twitter-task9-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task9-output1.png)
 ![twitter-task-output2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task9-output2.png)
 
+## 10. Final thoughts
+
+🕵️‍♀️ The last histogram tells us that:
+
+a. Most of the tweets were in English.
+
+b. Polish, Italian and Spanish were the next runner-ups.
+
+c. There were a lot of tweets with a language alien to Twitter (lang = 'und').
+
+![color-map](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/color-map.png)
+
 
 
 
