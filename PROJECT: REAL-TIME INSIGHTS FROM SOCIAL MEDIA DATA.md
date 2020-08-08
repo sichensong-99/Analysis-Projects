@@ -110,6 +110,16 @@ But hey, let's not get overwhemled by all the information in a tweet object! Let
 
 ![twitter-task5-2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task5-2.png)
 
+For each tweet in the tweets object , extract its text field, tweet['text'], using list comprehension. Store all the ouput texts in a list called texts.
+For each tweet in tweets, create an inner loop to iterate through usermentions, tweet['entities']['user_mentions']. From each user_mention extract its screenname field, user_mention['screen_name']. Store the output in names.
+For each tweet in tweets, create an inner loop to iterate through hashtags, tweet['entities']['hashtags']. From each hashtag extract its text field, hashtag['text']. Store the output in hashtags.
+
+Output:
+![twitter-task5-output1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task5-output1.png)
+![twitter-task5-output2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task5-output2.png)
+![twitter-task5-output3](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task5-output3.png)
+
+
 
 
 
