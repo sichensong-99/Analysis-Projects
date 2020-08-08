@@ -136,6 +136,57 @@ Observing the first 10 items of the interesting fields gave us a sense of the da
 Output:
 ![twitter-task6-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task6-output.png)
 
+Import the Counter module from collections.
+
+Call the Counter() method with item from the for loop as input parameter. (This allows you to keep track of how many times same values are added.)
+
+## 7. Activity around the trend
+
+🕵️‍♀️ Based on the last frequency distributions we can further build-up on our deductions:
+
+a. We can more safely say that this was a music video about Earth (hashtag 'EarthMusicVideo') by Lil Dicky.
+b. DiCaprio is not a music artist, but he was involved as well (Leo is an environmentalist so not a surprise to see his name pop up here).
+c. We can also say that the video was released on a Friday; very likely on April 19th.
+
+We have been able to extract so many insights. Quite powerful, isn't it?!
+
+Let's further analyze the data to find patterns in the activity around the tweets — did all retweets occur around a particular tweet?
+
+If a tweet has been retweeted, the 'retweeted_status' field gives many interesting details about the original tweet itself and its author.
+
+We can measure a tweet's popularity by analyzing the retweetcount and favoritecount fields. But let's also extract the number of followers of the tweeter — we have a lot of celebs in the picture, so can we tell if their advocating for #WeLoveTheEarth influenced a significant proportion of their followers?
+
+Note: The retweet_count gives us the total number of times the original tweet was retweeted. It should be the same in both the original tweet and all the next retweets. Tinkering around with some sample tweets and the official documentaiton are the way to get your head around the mnay fields.
+
+![twitter-task8](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task8.png)
+
+Get 'retweet_count', 'retweeted_status\favorite_count','retweeted_status\user\followers_count','retweeted_status\user\screen_name', and 'text' fields for each tweet from the given for loop, respecting this order.
+
+## 8. A table that speaks a 1000 words
+
+Let's manipulate the data further and visualize it in a better and richer way — "looks matter!"
+
+![twitter-task7](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task7.png)
+
+![twitter-task7-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task7-output.png)
+
+Create a DataFrame using the pd.DataFrame() constructor by passing retweets object as input. Also set the additional input parameter columns to ['Retweets','Favorites', 'Followers', 'ScreenName', 'Text'].
+
+Then call sum() on the results of the groupby to compute an aggregate of the numerical columns.
+
+## 9. Analyzing used languages
+
+🕵️‍♀️ Our table tells us that:
+
+a. Lil Dicky's followers reacted the most — 42.4% of his followers liked his first tweet.
+b. Even if celebrities like Katy Perry and Ellen have a huuge Twitter following, their followers hardly reacted, e.g., only 0.0098% of Katy's followers liked her tweet.
+c. While Leo got the most likes and retweets in terms of counts, his first tweet was only liked by 2.19% of his followers.
+The large differences in reactions could be explained by the fact that this was Lil Dicky's music video. Leo still got more traction than Katy or Ellen because he played some major role in this initiative.
+
+
+Finally call sort_values() with input paramters by set to ['Followers'] and ascending to False to sort the table by decreasing number of followers.
+Call groupby() on the resulting DataFrame with ['ScreenName','Text','Followers'] as input parameter.
+
 
 
 
