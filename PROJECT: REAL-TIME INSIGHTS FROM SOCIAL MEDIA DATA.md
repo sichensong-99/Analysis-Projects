@@ -19,6 +19,10 @@ Output:
 
 ![twitter-task1-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task1-output.png)
 
+## 2. Prettifying the output
+
+Our data was hard to read! Luckily, we can resort to the json.dumps() method to have it formatted as a pretty JSON string.
+
 
 
 
