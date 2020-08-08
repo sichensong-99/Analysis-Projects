@@ -48,6 +48,8 @@ e. There are some trends which are unique to the US.
 
 It’s easy to skim through the two sets of trends and spot common trends, but let's not do "manual" work. We can use Python’s set data structure to find common trends — we can iterate through the two trends objects, cast the lists of names to sets, and call the intersection method to get the common names between the two sets.
 
+### Step 1:
+
 ![twitter-task3-1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-1.png)
 
 Extract the name field, trend['name'], from the list of trends in WW_trends
@@ -57,6 +59,8 @@ Output:
 ![twitter-task3-1-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-1-output.png)
 
 As shown, we already gotten the name list of WW_trends.
+
+### Step 2:
 
 The same for US_trend:
 
@@ -69,6 +73,8 @@ Output:
 
 You can just use WW_trends[0]['trends']and US_trends[0]['trends'] for iterations to get the names because the trends objects are lists with only one element.
 
+### Step 3: 
+
 After listing the name lists, we are trying to find the intersection between twp sets.
 
 ![twitter-task3-3](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-3.png)
@@ -77,6 +83,12 @@ Call the intersection() method on world_trends with us_trends as input parameter
 
 Output:
 ![twitter-task3-3-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-3-output.png)
+
+# 4. Exploring the hot trend
+
+🕵️‍♀️ From the intersection (last output) we can see that, out of the two sets of trends (each of size 50), we have 11 overlapping topics. In particular, there is one common trend that sounds very interesting: #WeLoveTheEarth — so good to see that Twitteratis are unanimously talking about loving Mother Earth! 💚
+
+![earth](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/earth.png)
 
 
 
