@@ -126,7 +126,9 @@ Output:
 🕵️‍♀️ Just from the first few results of the last extraction, we can deduce that:
 
 a. We are talking about a song about loving the Earth.
+
 b. A lot of big artists are the forces behind this Twitter wave, especially Lil Dicky.
+
 c. Ed Sheeran was some cute koala in the song — "EdSheeranTheKoala" hashtag! 🐨
 
 Observing the first 10 items of the interesting fields gave us a sense of the data. We can now take a closer look by doing a simple, but very useful, exercise — computing frequency distributions. Starting simple with frequencies is generally a good approach; it helps in getting ideas about how to proceed further.
