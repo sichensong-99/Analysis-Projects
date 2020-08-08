@@ -23,6 +23,8 @@ Output:
 
 Our data was hard to read! Luckily, we can resort to the json.dumps() method to have it formatted as a pretty JSON string.
 
+![twitter-task2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task2.png)
+
 
 
 
