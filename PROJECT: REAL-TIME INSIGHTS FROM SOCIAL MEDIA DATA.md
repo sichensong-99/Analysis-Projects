@@ -47,6 +47,29 @@ e. There are some trends which are unique to the US.
 
 It’s easy to skim through the two sets of trends and spot common trends, but let's not do "manual" work. We can use Python’s set data structure to find common trends — we can iterate through the two trends objects, cast the lists of names to sets, and call the intersection method to get the common names between the two sets.
 
+![twitter-task3-1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-1.png)
+
+Extract the name field, trend['name'], from the list of trends in WW_trends
+
+Output:
+![twitter-task3-1-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-1-output.png)
+
+As shown, we already gotten the name list of WW_trends.
+
+The same for US_trend:
+
+![twitter-task3-2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-2.png)
+
+Here's the name list of US_trend.
+
+Output:
+![twitter-task3-2-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-2-output.png)
+
+You can just use WW_trends[0]['trends']and US_trends[0]['trends'] for iterations to get the names because the trends objects are lists with only one element.
+
+Call the intersection() method on world_trends with us_trends as input parameter to get the common items between the two; store the output in the variable called common_trends.
+
+
 
 
 
