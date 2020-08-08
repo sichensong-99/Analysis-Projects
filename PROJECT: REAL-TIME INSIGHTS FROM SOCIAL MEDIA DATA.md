@@ -48,7 +48,7 @@ e. There are some trends which are unique to the US.
 
 It’s easy to skim through the two sets of trends and spot common trends, but let's not do "manual" work. We can use Python’s set data structure to find common trends — we can iterate through the two trends objects, cast the lists of names to sets, and call the intersection method to get the common names between the two sets.
 
-### Step 1:
+### Step 1: List the names in WW_trends
 
 ![twitter-task3-1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-1.png)
 
@@ -60,7 +60,7 @@ Output:
 
 As shown, we already gotten the name list of WW_trends.
 
-### Step 2:
+### Step 2: List the names in US_trend
 
 The same for US_trend:
 
@@ -73,9 +73,9 @@ Output:
 
 You can just use WW_trends[0]['trends']and US_trends[0]['trends'] for iterations to get the names because the trends objects are lists with only one element.
 
-### Step 3: 
+### Step 3: Find the intersection 
 
-After listing the name lists, we are trying to find the intersection between twp sets.
+After listing the name lists, we are trying to find the intersection between twO sets.
 
 ![twitter-task3-3](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-3.png)
 
