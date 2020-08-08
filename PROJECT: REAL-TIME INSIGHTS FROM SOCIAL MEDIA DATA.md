@@ -5,7 +5,7 @@ Twitter provides both global and local trends. Let's load and inspect data for t
 
 ![twitter-task1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task1.png)
 
-In this case, we load data from JSON file, so use open() method to open the JSON file.
+In this case, we load data from JSON file, so use open() method to open the JSON file. And then call the read() method on the opened file to read its content;
 
-And then call the read() method on the opened file to read its content;
+
 
