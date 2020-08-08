@@ -27,6 +27,7 @@ Our data was hard to read! Luckily, we can resort to the json.dumps() method to 
 
 json.dumps() formats data as a JSON string. If you pass 'indent' to the method (a positive integer), then all the elements in the JSON array are printed with that indent level. This makes it easy to read the results — pretty-printed.
 
+Output:
 ![twitter-task2-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task2-output.png)
 
 ## 3. Finding common trends
@@ -52,6 +53,7 @@ It’s easy to skim through the two sets of trends and spot common trends, but l
 Extract the name field, trend['name'], from the list of trends in WW_trends
 
 Output:
+
 ![twitter-task3-1-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-1-output.png)
 
 As shown, we already gotten the name list of WW_trends.
