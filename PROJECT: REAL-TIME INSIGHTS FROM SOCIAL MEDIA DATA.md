@@ -106,6 +106,10 @@ Just like in Task 1, use theopen() method with 'datasets/WeLoveTheEarth.json' as
 
 But hey, let's not get overwhemled by all the information in a tweet object! Let's focus on a few interesting fields and see if we can find any hidden insights there.
 
+![twitter-task5-1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task5-1.png)
+
+![twitter-task5-2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task5-2.png)
+
 
 
 
