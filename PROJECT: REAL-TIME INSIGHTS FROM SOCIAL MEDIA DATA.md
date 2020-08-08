@@ -174,18 +174,31 @@ Create a DataFrame using the pd.DataFrame() constructor by passing retweets obje
 
 Then call sum() on the results of the groupby to compute an aggregate of the numerical columns.
 
+Finally call sort_values() with input paramters by set to ['Followers'] and ascending to False to sort the table by decreasing number of followers.
+Call groupby() on the resulting DataFrame with ['ScreenName','Text','Followers'] as input parameter.
+
 ## 9. Analyzing used languages
 
 🕵️‍♀️ Our table tells us that:
 
 a. Lil Dicky's followers reacted the most — 42.4% of his followers liked his first tweet.
+
 b. Even if celebrities like Katy Perry and Ellen have a huuge Twitter following, their followers hardly reacted, e.g., only 0.0098% of Katy's followers liked her tweet.
+
 c. While Leo got the most likes and retweets in terms of counts, his first tweet was only liked by 2.19% of his followers.
 The large differences in reactions could be explained by the fact that this was Lil Dicky's music video. Leo still got more traction than Katy or Ellen because he played some major role in this initiative.
 
+The large differences in reactions could be explained by the fact that this was Lil Dicky's music video. Leo still got more traction than Katy or Ellen because he played some major role in this initiative.
 
-Finally call sort_values() with input paramters by set to ['Followers'] and ascending to False to sort the table by decreasing number of followers.
-Call groupby() on the resulting DataFrame with ['ScreenName','Text','Followers'] as input parameter.
+Can we find some more interesting patterns in the data? From the text of the tweets, we could spot different languages, so let's create a frequency distribution for the languages.
+
+![twitter-task9](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task9.png)
+
+Output:
+![twitter-task9-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task9-output1.png)
+![twitter-task-output2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task9-output2.png)
+
+
 
 
 
