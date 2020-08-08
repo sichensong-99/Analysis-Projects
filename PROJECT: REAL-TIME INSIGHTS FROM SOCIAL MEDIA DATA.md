@@ -69,8 +69,14 @@ Output:
 
 You can just use WW_trends[0]['trends']and US_trends[0]['trends'] for iterations to get the names because the trends objects are lists with only one element.
 
+After listing the name lists, we are trying to find the intersection between twp sets.
+
+![twitter-task3-3](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-3.png)
+
 Call the intersection() method on world_trends with us_trends as input parameter to get the common items between the two; store the output in the variable called common_trends.
 
+Output:
+![twitter-task3-3-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task3-3-output.png)
 
 
 
