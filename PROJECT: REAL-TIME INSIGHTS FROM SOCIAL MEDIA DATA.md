@@ -111,13 +111,30 @@ But hey, let's not get overwhemled by all the information in a tweet object! Let
 ![twitter-task5-2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task5-2.png)
 
 For each tweet in the tweets object , extract its text field, tweet['text'], using list comprehension. Store all the ouput texts in a list called texts.
+
 For each tweet in tweets, create an inner loop to iterate through usermentions, tweet['entities']['user_mentions']. From each user_mention extract its screenname field, user_mention['screen_name']. Store the output in names.
+
 For each tweet in tweets, create an inner loop to iterate through hashtags, tweet['entities']['hashtags']. From each hashtag extract its text field, hashtag['text']. Store the output in hashtags.
 
 Output:
 ![twitter-task5-output1](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task5-output1.png)
 ![twitter-task5-output2](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task5-output2.png)
 ![twitter-task5-output3](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task5-output3.png)
+
+## 6. Frequency analysis
+
+🕵️‍♀️ Just from the first few results of the last extraction, we can deduce that:
+
+a. We are talking about a song about loving the Earth.
+b. A lot of big artists are the forces behind this Twitter wave, especially Lil Dicky.
+c. Ed Sheeran was some cute koala in the song — "EdSheeranTheKoala" hashtag! 🐨
+
+Observing the first 10 items of the interesting fields gave us a sense of the data. We can now take a closer look by doing a simple, but very useful, exercise — computing frequency distributions. Starting simple with frequencies is generally a good approach; it helps in getting ideas about how to proceed further.
+
+![twitter-task6](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task6.png)
+
+Output:
+![twitter-task6-output](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/twitter-task6-output.png)
 
 
 
