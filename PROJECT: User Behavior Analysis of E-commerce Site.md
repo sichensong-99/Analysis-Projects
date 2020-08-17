@@ -101,3 +101,111 @@ Independent IP visitors provide statistical indicators of the number of differen
 The December 12 online shopping festival (often referred to as 12/12) has routinely been the busiest shopping day of the year in China since 2012. Many stores offer highly promoted sales on 12/12, which is similar to Black Friday in the United States.
 
 In this way, we could find out that the values of PV and UV were higher than normal level. So we’ll dig into the data on 12/12 next chapter.
+
+### 3.3 User Behavior at Different Times
+
+![E-20](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-20.jpg)
+
+![E-21](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-21.jpg)
+
+## 4. Promotion Campaign Data and Daily Data
+
+Because of sales promotion campaign on December 12th, we cannot mix data in promotion campaign with daily data to conduct trend analysis. It’ll be biased and not in line with the truth. 
+
+So we seperate data in promotion campaign from daily data and conduct comparative analysis.
+
+### 4.1 Convert time to datatime
+
+![E-22](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-22.jpg)
+
+### 4.2 Variance Analysis of PV and UV (Per day)
+
+![E-23](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-23.jpg)
+
+![E-24](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-24.jpg)
+
+![E-25](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-25.jpg)
+
+![E-26](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-26.jpg)
+
+### 4.3 Extract Data in Sales Pomotion Campaign and Daily Data
+
+![E-27](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-27.jpg)
+
+As mentioned, December 12th was the online shopping festival. 
+
+So we extract data on the day before festival and the day after festival to dig into the business trend during promotion campaign.
+
+### 4.4 User Behavior at different times in Promotion Campaign
+
+![E-28](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-28.jpg)
+
+![E-29](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-29.jpg)
+
+![E-30](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-30.jpg)
+
+![E-31](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-31.jpg)
+
+![E-32](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-32.jpg)
+
+As shown in the chart, it shows daily avarage data during the sales promotion campaign. 
+
+We could see that 24:00 was the peak time for sales promotion campaign so that users were in high cycle regaring purchase at 24:00 as well. Promotion campaign had been a major boost for user purchase. 
+
+Click rate entered the peak period from 21:00 to 22:00. In this way, it’s important for sellers to finish improving user interface for promotion before 20:00 so that they could attract users to participate in the promotion acticity at 24:00.
+
+### 4.5 Daily User Behavior at Different Times
+
+![E-33](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-33.jpg)
+
+![E-34](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-34.jpg)
+
+![E-35](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-35.jpg)
+
+During daily time, the number of buyers were not changed from 10:00 to 23:00. 
+
+The number of visitors, the number of people who add items to shopping cart and the number of people who save items were in peak time from 21:00 to 22:00. It means that users would like to browse items at night. Sellers could focus more on promotion activities during this time.
+
+![E-36](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-36.jpg)
+
+![E-37](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-37.jpg)
+
+During daily time, the highest buying rate reached a peak from 10:00 to 15:00 and at 21:00. It’s different from the buying rate during promotion activities. 
+
+But obviously, more peak values were shown at 21:00. In this way, sellers could focus more on marketing campaign to attract users at this time.
+
+## 5. Conversion Funnel Analysis
+
+### 5.1 Conversion Funnel in Sales Promotion Activity
+
+![E-38](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-38.jpg)
+
+![E-39](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-39.jpg)
+
+During sales promotion activity, the conversion rate from clicking to adding to cart was only 4.97% and buying rate was 2%. It means that the seller got lots of page views. But few of users were willing to buy. 
+
+Although it was the large-scale promotion campaign, the conversion rate was still low. Sellers could focus more on how to attract users to save items and to add items to shopping cart so that the buying rate would be increased.
+
+### 5.2 Daily Conversion Funnel 
+
+![E-40](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-40.jpg)
+
+![E-41](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-41.jpg)
+
+According to daily click rate, 4.45% of users added items to shopping cart and 3.3% of users saved items. As a result, there were only 1.4% of users buying the items. In this way, we could conclude that the conversion rate was too low and still was in grow potential.
+
+According to color indication, red part was changed the most. It means that the conversion rate from clicking to adding to cart was minumum. 
+
+Then we dig into the user behavior path, which refers to click - add to cart - save - purchase. Sellers could focus on the conversion rate from clicking to adding to cart in order to further improve buying rate. After adding to cart, sellers could issue more coupons to stimulate users desire to buy.
+
+## 6. Conclusion
+
+Data range in the project is from 2014/11/18 - 2014/12/18. 
+
+It is a remarkable fact that we need pay more attention on data on December 12th ,which need a special treatment. 
+
+The December 12 online shopping festival (often referred to as 12/12) has routinely been the busiest shopping day of the year in China since 2012. Many stores offer highly promoted sales on 12/12, which is similar to Black Friday in the United States. 
+
+In order to improve the efficiency and accuracy of analysis, we divide data into 2 parts: daily and sales promotion campaign (2014/12/11 - 2014/12/13) and conduct analysis separately.
+
+![WERCHART](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/WeChat%20Image_20200817145456.png)
