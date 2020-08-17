@@ -58,4 +58,28 @@ Then we could check the data on time separately. For example:
 
 ## 3. Analyze Web Traffic and User Behavior
 
-Website traffic analysis refers to the statistics and analysis of relevant data in the case of obtaining the basic data of website visits, from which we can find the rules of users visiting the website, and combine these rules with network marketing strategies, so as to find the possible problems in current network marketing activities, and provide the basis for further revision or redesign of network marketing strategies. This involves the commonly used website traffic analysis indicators: PV/UV.
+Website traffic analysis refers to the statistics and analysis of relevant data in the case of obtaining the basic data of website visits, from which we can find the rules of users visiting the website, and combine these rules with network marketing strategies, so as to find the possible problems in current network marketing activities, and provide the basis for further revision or redesign of network marketing strategies. 
+
+This involves the commonly used website traffic analysis indicators: PV/UV.
+
+### 3.1 PV and UV Statistics
+
+![E-14](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-14.jpg)
+
+• What is PV?
+
+PV (page view), that is, page views, or clicks, is usually the main indicator of a website.
+
+The expert’s explanation for PV is that a visitor actually sees several pages of your website within 24 hours (from 0 to 24). 
+
+Here we need to emphasize: the same person browse the same page of your website, do not repeat the calculation of PV volume, point 100 is also calculated once. 
+
+To put it bluntly, PV is a visitor who opens several of your pages.
+
+• What is UV?
+
+UV (unique visitor) refers to the number of different IP addresses accessing a site.
+
+In the same day, UV only records visitors with independent IP who enter the website for the first time, but not counts those who visit the website again in the same day.
+
+Independent IP visitors provide statistical indicators of the number of different users over a period of time, but do not reflect the overall activities of the website.
