@@ -1,6 +1,6 @@
 # PROJECT: User Behavior Analysis of E-commerce Site
 
-![E](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cover.jpg)
+              ![E](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cover.jpg)
 
 ## 1. Check Data
 
