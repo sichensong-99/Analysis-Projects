@@ -1,8 +1,8 @@
 # PROJECT: REAL-TIME INSIGHTS FROM SOCIAL MEDIA DATA
 
-## 1. Load data
-
 ![twitter](https://github.com/sichensong-99/My-Analysis-Projects/blob/master/Pics/Twitter.png)
+
+## 1. Load data
 
 Twitter provides both global and local trends. Let's load and inspect data for topics that were hot worldwide (WW) and in the United States (US) at the moment of query — snapshot of JSON response from the call to Twitter's GET trends/place API.
 
