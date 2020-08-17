@@ -160,7 +160,7 @@ We can measure a tweet's popularity by analyzing the retweetcount and favoriteco
 
 Note: The retweet_count gives us the total number of times the original tweet was retweeted. It should be the same in both the original tweet and all the next retweets. Tinkering around with some sample tweets and the official documentaiton are the way to get your head around the mnay fields.
 
-![twitter-task8]()
+![twitter-task8](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/twitter-task8.png)
 
 Get 'retweet_count', 'retweeted_status\favorite_count','retweeted_status\user\followers_count','retweeted_status\user\screen_name', and 'text' fields for each tweet from the given for loop, respecting this order.
 
