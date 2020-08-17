@@ -85,3 +85,19 @@ UV (unique visitor) refers to the number of different IP addresses accessing a s
 In the same day, UV only records visitors with independent IP who enter the website for the first time, but not counts those who visit the website again in the same day.
 
 Independent IP visitors provide statistical indicators of the number of different users over a period of time, but do not reflect the overall activities of the website.
+
+### 3.2 Daily Trend in PV and UV
+
+![E-19](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-15.jpg)
+
+![E-20](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-16.jpg)
+
+![E-21](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-17.jpg)
+
+![E-18](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-18.jpg)
+
+![E-19](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/E-19.jpg)
+
+The December 12 online shopping festival (often referred to as 12/12) has routinely been the busiest shopping day of the year in China since 2012. Many stores offer highly promoted sales on 12/12, which is similar to Black Friday in the United States.
+
+In this way, we could find out that the values of PV and UV were higher than normal level. So we’ll dig into the data on 12/12 next chapter.
