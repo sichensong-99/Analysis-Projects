@@ -76,6 +76,8 @@ Here we need to emphasize: the same person browse the same page of your website,
 
 To put it bluntly, PV is a visitor who opens several of your pages.
 
+
+
 • What is UV?
 
 UV (unique visitor) refers to the number of different IP addresses accessing a site.
