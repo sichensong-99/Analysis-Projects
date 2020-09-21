@@ -22,3 +22,18 @@ a. Analyze the relationship between user characteristics and churn.
 b. From the perspective of the overall situation, what are the common characteristics of lost users? 
 
 c. Provide recommendations to increase user stickiness and prevent loss.
+
+## Understand Data
+
+According to the introduction, the data set has 21 fields, a total of 7043 records. 
+
+Each record contains the characteristics of each unique customer. The project is to find the relationship between characteristics of the first 20 columns and the last column (the customer churn feature).
+
+## Clean Data
+Import libraries in Python
+
+![cus-2](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-2.png)
+
+Import Data set
+
+![cus-3](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-3.png)
