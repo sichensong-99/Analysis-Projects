@@ -34,14 +34,14 @@ Each record contains the characteristics of each unique customer. The project is
 
 ![cus-2](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-2.png)
 
-Import Dataset
+#### Import Dataset
 
 ![cus-3](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-3.png)
 
-Check data size
+#### Check data size
 
 ![cus-4](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-4.png)
 
-Check the first 10 data
+#### Check the first 10 data
 
 ![cus-5](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-5.png)
