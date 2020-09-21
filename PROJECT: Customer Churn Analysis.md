@@ -17,3 +17,6 @@ Nowadays, the high cost of acquiring customers makes telecom operators encounter
 The data set comes from "telecom operator customer data set" in kesci.
 
 ## Problem
+a. Analyze the relationship between user characteristics and churn. 
+b. From the perspective of the overall situation, what are the common characteristics of lost users? 
+c. Provide recommendations to increase user stickiness and prevent loss.
