@@ -30,7 +30,7 @@ According to the introduction, the data set has 21 fields, a total of 7043 recor
 Each record contains the characteristics of each unique customer. The project is to find the relationship between characteristics of the first 20 columns and the last column (the customer churn feature).
 
 ## Clean Data
-### Import libraries in Python
+#### Import libraries in Python
 
 ![cus-2](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-2.png)
 
