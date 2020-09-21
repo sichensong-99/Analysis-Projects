@@ -34,6 +34,12 @@ Import libraries in Python
 
 ![cus-2](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-2.png)
 
-Import Data set
+Import Dataset
 
 ![cus-3](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-3.png)
+
+Check data size
+![cus-4](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-4.png)
+
+Check the first 10 data
+![cus-5](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-5.png)
