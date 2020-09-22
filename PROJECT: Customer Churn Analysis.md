@@ -64,7 +64,7 @@ Here are 11 missing values.
 
 ![cus-10](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-10.png)
 
-After observation, it is found that the "tenure" of these 11 users is 0 months, which is supposed to be the new users in the current month. According to the general experience, even if the user cancell the service within the month of registration, he has to pay the current month fee. 
+After observation, it is found that the "tenure" of these 11 users are 0 months, which is supposed to be the new users in the current month. According to the general experience, even if the user cancell the service within the month of registration, he has to pay the current month fee. 
 
 Therefore, we need to fill the monthly charges into the total charges, which is in line with the actual situation.
 
@@ -74,4 +74,26 @@ Therefore, we need to fill the monthly charges into the total charges, which is 
 
 ## Visualize analysis results
 
+User characteristics are divided into user attributes, service attributes and contract attributes, and visual analysis is carried out from these three dimensions.
+
+#### Check the number of customer churn and ratio
+
+![cus-14](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-14.png)
+
+![cus-15](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-15.png)
+
+### User attributes analysis
+
+![cus-16](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-16.png)
+
+![cus-17](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-17.png)
+
+![cus-18](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-18.png)
+
+![cus-19](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-19.png)
+
+#### Conclusion
+a. User churn is not related to gender
+
+b. Proportion of SeniorCitizen is significantly higher than that of non-SeniorCitizen.
 
