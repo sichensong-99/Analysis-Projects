@@ -93,7 +93,27 @@ User characteristics are divided into user attributes, service attributes and co
 ![cus-19](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-19.png)
 
 #### Conclusion
-a. User churn is not related to gender
+a. User churn is not related to gender.
 
 b. Proportion of SeniorCitizen is significantly higher than that of non-SeniorCitizen.
+
+![cus-20](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-20.png)
+
+![cus-21](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-21.png)
+
+![cus-22](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-22.png)
+
+![cus-23](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-23.png)
+
+#### Conclusion
+
+a. The churn rate of customer who has partner is lower than customer who hasn't partner.
+
+b. Few customer has dependents.
+
+c. The churn rate of customer who has dependents is lower than customer who hasn't dependents.
+
+d. The longer the tenure is, the lower the customer churn rate is, which is in line with the general experience.
+
+e. The customer churn rate is lower than the stay-in rate when tenure reaches 3 months, which proves that psychological stability period of users is generally 3 months.
 
