@@ -55,11 +55,23 @@ We could find out that the data type of TotalCharges is object, which is not cor
 
 ![cus-8](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-8.png)
 
+![cus-12](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-12.png)
+
 #### Check missing value
 ![cus-9](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-9.png)
 
 Here are 11 missing values.
 
-![cus-10](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-9.png)
+![cus-10](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-10.png)
+
+After observation, it is found that the "tenure" of these 11 users is 0 months, which is supposed to be the new users in the current month. According to the general experience, even if the user cancell the service within the month of registration, he has to pay the current month fee. 
+
+Therefore, we need to fill the monthly charges into the total charges, which is in line with the actual situation.
+
+![cus-11](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-11.png)
+
+![cus-13](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-13.png)
+
+## Visualize analysis results
 
 
