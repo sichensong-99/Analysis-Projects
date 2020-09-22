@@ -185,11 +185,18 @@ Note: Other attributes have little impact on user churn. Characteristics above a
 
 1) To make a user list with high churn rate, launch a new product feature based on user survey and invite seed users to try it out.
 
-2) Product
+2) User
+   For SeniorCitizen, user who hasn't partner and user who hasn't dependent, customized service can be offered such as family package, warm package, etc. It could strengthen relevance to other users and provides personalized service for target users.
 
-a. For SeniorCitizen, user who hasn't partner and user who hasn't dependent, customized service can be offered such as family package, warm package, etc.
+3) Service
+   a. For new users, providing semi-annual promotion, such as coupons, at the peak of user churn.
+   
+   b. For optical fiber users and optical fiber users with StreamingTV and SteamingMovies services, the key is to improve online experience and user experience of additional service. It could promote technical team to enhance network index and increase user stickiness through free extra-service such as network upgrading or movie subscription service.
+   
+   c. To promote additional service, including OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, etc, to the public, such as free physical examinations during the first month/ year of subscription.
 
-用户方面：针对老年用户、无亲属、无伴侣用户的特征退出定制服务如亲属套餐、温暖套餐等，一方面加强与其它用户关联度，另一方对特定用户提供个性化服务。
-服务方面：针对新注册用户，推送半年优惠如赠送消费券，以渡过用户流失高峰期。针对光纤用户和附加流媒体电视、电影服务用户，重点在于提升网络体验、增值服务体验，一方面推动技术部门提升网络指标，另一方面对用户承诺免费网络升级和赠送电视、电影等包月服务以提升用户黏性。针对在线安全、在线备份、设备保护、技术支持等增值服务，应重点对用户进行推广介绍，如首月/半年免费体验。
-合同方面：针对单月合同用户，建议推出年合同付费折扣活动，将月合同用户转化为年合同用户，提高用户在网时长，以达到更高的用户留存。 针对采用电子支票支付用户，建议定向推送其它支付方式的优惠券，引导用户改变支付方式。
+4) Contract
 
+   a. For users with month-to-month contract, promoting discount on one-year contract so that contract term and user retention could be improved.
+   
+   b. For users with electronic check payment, promoting coupons for other payment methods directly so that users might be guided to change their payment methods.
