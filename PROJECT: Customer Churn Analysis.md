@@ -45,3 +45,10 @@ Each record contains the characteristics of each unique customer. The project is
 #### Check the first 10 data
 
 ![cus-5](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-5.png)
+
+#### Check Datatype
+![cus-6](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-6.png)
+
+We could find out that the data type of TotalCharges is object, which is not correct. Then we need to transfer the data type from object into float.
+
+![cus-7](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-7.png)
