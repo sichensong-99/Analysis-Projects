@@ -49,6 +49,17 @@ Each record contains the characteristics of each unique customer. The project is
 #### Check Datatype
 ![cus-6](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-6.png)
 
+![cus-7](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-7.png)
+
 We could find out that the data type of TotalCharges is object, which is not correct. Then we need to transfer the data type from object into float.
 
-![cus-7](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-7.png)
+![cus-8](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-8.png)
+
+#### Check missing value
+![cus-9](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-9.png)
+
+Here are 11 missing values.
+
+![cus-10](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-9.png)
+
+
