@@ -153,7 +153,8 @@ d. The churn rate of optical fiber users with StreamingTV and SteamingMovies ser
 
 ## Findings and Recommendations
 
-### According to analysis above, the user characteristics of high churn rate are obtained:
+
+### User characteristics of high churn rate:
 
 1) User attributes
 
@@ -181,7 +182,7 @@ d. Monthly charges is around $70 - $110
 Note: Other attributes have little impact on user churn. Characteristics above are independent.
 
 
-### According to findings above, here are recommendations:
+### Recommendations:
 
 1) To make a user list with high churn rate, launch a new product feature based on user survey and invite seed users to try it out.
 
