@@ -161,7 +161,7 @@ a. The churn rate of users with electronic check payment is the highest.
 
 b. The impact of contract signing method on user churn rate is as follows: signing by month > signing by one year > signing by two years. It proves that long-term contracts      are the best way to retain customers.
 
-c. The user churn rate is the highest when monthly charges is around $70 -$110;
+c. The user churn rate is the highest when monthly charges is around $70 -$110.
 
 d. In the long term, the higher total charges, the lower user churn rate.
 
