@@ -202,9 +202,11 @@ Note: Other attributes have little impact on user churn. Characteristics above a
 1) To make a user list with high churn rate, launch a new product feature based on user survey and invite seed users to try it out.
 
 2) User
+
    For SeniorCitizen, user who hasn't partner and user who hasn't dependent, customized service can be offered such as family package, warm package, etc. It could strengthen relevance to other users and provides personalized service for target users.
 
 3) Service
+
    a. For new users, providing semi-annual promotion, such as coupons, at the peak of user churn.
    
    b. For optical fiber users and optical fiber users with StreamingTV and SteamingMovies services, the key is to improve online experience and user experience of additional service. It could promote technical team to enhance network index and increase user stickiness through free extra-service such as network upgrading or movie subscription service.
