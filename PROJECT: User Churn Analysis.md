@@ -173,7 +173,7 @@ d. In the long term, the higher total charges, the lower user churn rate.
 
 1) User attributes
 
-SeniorCitizen, user who hasn't partner and user who hasn't dependent  
+SeniorCitizen, users who haven't partner and users who haven't dependent  
 
 2) Service attributes
 
@@ -181,7 +181,7 @@ a. The subscription length is less than half of a year.
 
 b. User who subscribes phone service.
 
-c. Optical fiber users/ Optical fiber users with StreamingTV and SteamingMovies services or without internet additional service
+c. Optical fiber users/ Optical fiber users with StreamingTV and SteamingMovies services or non-internet additional service
 
 3) Contract attributes
 
