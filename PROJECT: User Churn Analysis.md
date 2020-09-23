@@ -17,17 +17,17 @@ Nowadays, the high cost of acquiring customers makes telecom operators encounter
 The data set comes from "telecom operator customer data set" in kesci.
 
 ## Problem
-a. Analyze the relationship between user characteristics and churn. 
+a. What's the relationship between user characteristics and churn rate?
 
-b. From the perspective of the overall situation, what are the common characteristics of lost users? 
+b. What are the common characteristics of lost users? 
 
-c. Provide recommendations to increase user stickiness and prevent loss.
+c. How to increase user stickiness and prevent user churn?
 
 ## Understand Data
 
-According to the introduction, the data set has 21 fields, a total of 7043 records. 
+According to the introduction, the dataset has 21 columns, a total of 7043 records. 
 
-Each record contains the characteristics of each unique customer. The project is to find the relationship between characteristics of the first 20 columns and the last column (the customer churn feature).
+Each record contains the characteristics of each unique customer.
 
 ## Clean Data
 #### Import libraries in Python
