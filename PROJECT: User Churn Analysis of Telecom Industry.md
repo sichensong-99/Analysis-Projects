@@ -173,25 +173,25 @@ d. In the long term, the higher total charges, the lower user churn rate.
 
 1) User attributes
 
-SeniorCitizen, users who haven't partner and users who haven't dependent  
+   SeniorCitizen, users who haven't partner and users who haven't dependent  
 
 2) Service attributes
 
-a. The subscription length is less than half of a year.
+   a. The subscription length is less than half of a year.
 
-b. User who subscribes phone service.
+   b. User who subscribes phone service.
 
-c. Optical fiber users/ Optical fiber users with StreamingTV, SteamingMovies services or non-internet additional service
+   c. Optical fiber users/ Optical fiber users with StreamingTV, SteamingMovies services or non-internet additional service
 
 3) Contract attributes
 
-a. Contract term is short.
+   a. Contract term is short.
 
-b. Payment method is electronic check.
+   b. Payment method is electronic check.
 
-c. Paperless billing
+   c. Paperless billing
 
-d. Monthly charges is around $70 - $110
+   d. Monthly charges is around $70 - $110
 
 
 Note: Other attributes have little impact on user churn. Characteristics above are independent.
