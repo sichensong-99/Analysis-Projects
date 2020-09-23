@@ -203,18 +203,18 @@ Note: Other attributes have little impact on user churn. Characteristics above a
 
 2) User
 
-   For SeniorCitizen, users who haven't partner and users who haven't dependent, customized service can be offered such as family package, warm package, etc. It could strengthen relevance to other users and provides personalized service for target users.
+   For SeniorCitizen, users who haven't partner and users who haven't dependent, customized service can be offered such as family package, warm package, etc. It could strengthen correlation to other users and provide personalized service for target users.
 
 3) Service
 
-   a. For new users, providing semi-annual promotion, such as coupons, at the peak of user churn.
+   a. For new users, providing semi-annual promotion such as coupons at the peak of user churn rate.
    
    b. For optical fiber users and optical fiber users with StreamingTV and SteamingMovies services, the key is to improve online experience and user experience of additional service. It could promote technical team to enhance network index and increase user stickiness through free extra-service such as network upgrading or movie subscription service.
    
-   c. To promote additional service, including OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, etc, to the public, such as free physical examinations during the first month/ year of subscription.
+   c. To promote additional service to the public, including OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, etc, and optimize strategy such as free physical examinations during the first month/ year of subscription.
 
 4) Contract
 
-   a. For users with month-to-month contract, promoting discount on one-year contract so that contract term and user retention could be improved.
+   a. For users with month-to-month contract, promoting discount on one-year contract so that contract term and user retention rate could be improved.
    
    b. For users with electronic check payment, promoting coupons for other payment methods directly so that users might be guided to change their payment methods.
