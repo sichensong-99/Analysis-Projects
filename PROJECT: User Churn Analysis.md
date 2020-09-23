@@ -181,7 +181,7 @@ a. The subscription length is less than half of a year.
 
 b. User who subscribes phone service.
 
-c. Optical fiber users/ Optical fiber users with StreamingTV and SteamingMovies services or non-internet additional service
+c. Optical fiber users/ Optical fiber users with StreamingTV, SteamingMovies services or non-internet additional service
 
 3) Contract attributes
 
