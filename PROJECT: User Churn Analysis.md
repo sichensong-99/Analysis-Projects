@@ -64,7 +64,7 @@ Here are 11 missing values.
 
 ![cus-10](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-10.png)
 
-After observation, it is found that the "tenure" of these 11 users are 0 months, which is supposed to be the new users in the current month. According to the general experience, even if the user cancel the service within the month of registration, he/she has to pay the current month fee. 
+After observation, it is found that the "tenure" of these 11 users are 0 months, which is supposed to be the new users in the current month. According to the general experience, even if the user cancels the service within the month of registration, he/she has to pay the current month fee. 
 
 Therefore, we need to fill the monthly charges into the total charges, which is in line with the actual situation.
 
