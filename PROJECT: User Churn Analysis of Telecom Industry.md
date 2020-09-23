@@ -1,4 +1,4 @@
-# PROJECT: User Churn Analysis 
+# PROJECT: User Churn Analysis of Telecom Industry
 ![cus-1](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-1.jpg)
 
 The project includes 6 parts: 
