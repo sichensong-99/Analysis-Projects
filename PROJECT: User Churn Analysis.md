@@ -117,6 +117,8 @@ d. The longer the tenure is, the lower the user churn rate is, which is in line 
 
 e. The user churn rate is lower than the retention rate when tenure reaches 3 months, which proves that psychological stability period of users is generally 3 months.
 
+
+
 ### 2) Service attributes analysis
 
 ![cus-24](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-24.png)
@@ -133,13 +135,15 @@ e. The user churn rate is lower than the retention rate when tenure reaches 3 mo
 
 #### Conclusion
 
-a. Phone service has little impact on customer churn.
+a. Phone service has little impact on user churn.
 
-b. The customer chrun rate of fiber optic is relatively high.
+b. The chrun rate of fiber optic users is relatively high.
 
 c. The churn rate of optical fiber users with OnlineSecurity, OnlineBackup, DeviceProtection and TechSupport services is low.
 
 d. The churn rate of optical fiber users with StreamingTV and SteamingMovies services is relatively high.
+
+
 
 ### 3) Contract attributes analysis
 
@@ -150,6 +154,9 @@ d. The churn rate of optical fiber users with StreamingTV and SteamingMovies ser
 ![cus-32](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-32.png)
 
 ![cus-33](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-33.png)
+
+
+
 
 ## Findings and Recommendations
 
