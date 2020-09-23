@@ -107,15 +107,15 @@ b. The user churn rate of SeniorCitizen is significantly higher than that of non
 
 #### Conclusion
 
-a. The churn rate of customer who has partner is lower than customer who hasn't partner.
+a. The churn rate of user who has partner is lower than that of user who hasn't partner.
 
-b. Few customer has dependents.
+b. Few users have dependents.
 
-c. The churn rate of customer who has dependents is lower than customer who hasn't dependents.
+c. The churn rate of user who has dependents is lower than that of user who hasn't dependents.
 
-d. The longer the tenure is, the lower the customer churn rate is, which is in line with the general experience.
+d. The longer the tenure is, the lower the user churn rate is, which is in line with the general experience.
 
-e. The customer churn rate is lower than the stay-in rate when tenure reaches 3 months, which proves that psychological stability period of users is generally 3 months.
+e. The user churn rate is lower than the retention rate when tenure reaches 3 months, which proves that psychological stability period of users is generally 3 months.
 
 ### 2) Service attributes analysis
 
