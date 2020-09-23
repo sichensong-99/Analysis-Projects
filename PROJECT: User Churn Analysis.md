@@ -169,7 +169,7 @@ d. In the long term, the higher total charges, the lower user churn rate.
 ## Findings and Recommendations
 
 
-### User characteristics of high churn rate:
+### User characteristics with high churn rate:
 
 1) User attributes
 
