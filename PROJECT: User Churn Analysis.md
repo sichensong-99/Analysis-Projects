@@ -203,7 +203,7 @@ Note: Other attributes have little impact on user churn. Characteristics above a
 
 2) User
 
-   For SeniorCitizen, user who hasn't partner and user who hasn't dependent, customized service can be offered such as family package, warm package, etc. It could strengthen relevance to other users and provides personalized service for target users.
+   For SeniorCitizen, users who haven't partner and users who haven't dependent, customized service can be offered such as family package, warm package, etc. It could strengthen relevance to other users and provides personalized service for target users.
 
 3) Service
 
