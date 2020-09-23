@@ -82,7 +82,7 @@ User characteristics are divided into user attributes, service attributes and co
 
 ![cus-15](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-15.png)
 
-### User attributes analysis
+### 1) User attributes analysis
 
 ![cus-16](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-16.png)
 
@@ -117,7 +117,7 @@ d. The longer the tenure is, the lower the customer churn rate is, which is in l
 
 e. The customer churn rate is lower than the stay-in rate when tenure reaches 3 months, which proves that psychological stability period of users is generally 3 months.
 
-### Service attributes analysis
+### 2) Service attributes analysis
 
 ![cus-24](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-24.png)
 
@@ -141,7 +141,7 @@ c. The churn rate of optical fiber users with OnlineSecurity, OnlineBackup, Devi
 
 d. The churn rate of optical fiber users with StreamingTV and SteamingMovies services is relatively high.
 
-### Contract attributes analysis
+### 3) Contract attributes analysis
 
 ![cus-30](https://github.com/sichensong-99/Analysis-Projects/blob/master/Pics/cus-30.png)
 
