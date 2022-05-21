@@ -10,9 +10,9 @@ The project includes 6 parts:
 6. Findings and Recommendations
 
 ## Background
-There is a view on user retention. If the user churn rate is reduced by 5%, the company's profit will increase by 25% - 85%.
+A view is held on user retention. The company's profit will increase by 25 - 85% if the churn rate is reduced by 5%.
 
-Nowadays, the high cost of acquiring customers makes telecom operators encounter the "ceiling", and even fall into the dilemma of getting customers. With the increase of market saturation, telecom operators need to solve the problem of increasing user stickiness and user lifecycle. Therefore, it is very important to analyze the churn rate of telecom users. 
+As a result of today's high cost of acquiring customers, telecom operators face the "ceiling" and even run into the dilemma of getting customers. With the increasing saturation of the market, telecom operators need to increase user stickiness and user lifetime. The churn rate of telecom users is therefore very important to analyze. 
 
 The data set comes from "telecom operator customer data set" in kesci.
 
